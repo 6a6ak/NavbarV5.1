@@ -1,0 +1,13 @@
+#right-nav {
+  /*direction: rtl;*/
+}
+
+#dm-item {
+  color: var(--bs-yellow);
+}
+
+#dm-item:hover {
+  color: var(--bs-white);
+  background-color: #131a22;
+}
+
